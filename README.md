@@ -8,6 +8,8 @@
 
 <h4> <a href=https://movies-gpt.netlify.app/>View Demo</a> </h4>
 
+</div>
+
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
@@ -95,5 +97,3 @@ To deploy this project run
 ```bash
 firebase deploy
 ```
-
-
